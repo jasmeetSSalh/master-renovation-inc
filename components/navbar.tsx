@@ -1,5 +1,3 @@
-import { Button } from "@/components/ui/button"
-import { Github } from "lucide-react"
 import Link from "next/link"
 
 export function Navbar() {

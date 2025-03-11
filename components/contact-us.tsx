@@ -1,7 +1,6 @@
 "use client"
 
-import { JSX, useState } from "react";
-import { Button } from "@/components/ui/button";
+import { JSX } from "react";
 import { Mail, Phone, MapPin } from "lucide-react";
 
 const ContactUs = (): JSX.Element => {

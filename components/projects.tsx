@@ -1,6 +1,4 @@
-import { Button } from "@/components/ui/button";
 import Image from "next/image";
-import { Mail, Phone, MapPin } from "lucide-react";
 
 export default function Projects() {
   return (
