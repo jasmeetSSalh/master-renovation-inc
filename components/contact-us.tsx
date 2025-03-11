@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react";
+import { JSX, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Mail, Phone, MapPin } from "lucide-react";
 
